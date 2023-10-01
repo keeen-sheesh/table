@@ -195,3 +195,13 @@ input[type="submit"] {
   cursor: pointer;
   font-size: 1em;
 }
+footer{
+	width: 100%;
+	background-color: #1F2739;
+	text-align: center;
+	letter-spacing: 0.1em;
+	font-size: 13px;
+	color: black;
+	font-weight: bolder;
+	padding: 10px;
+}
