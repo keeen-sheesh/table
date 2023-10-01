@@ -34,6 +34,7 @@ h2 {
   padding-bottom: 2em;
   color: #FB667A; 
   padding: 20px;
+
 }
 
 h2 a {
@@ -43,8 +44,7 @@ h2 a {
   text-decoration: none;
  
   margin: auto;
-}
-
+} 
 .blue { color: #185875; }
 .yellow { color: #FFF842; }
 p{
@@ -57,6 +57,8 @@ p{
   padding-bottom: 2em;
   color: #FB667A; 
   padding: 20px;
+  padding-left: 220px;
+
 }
 ul {
   
@@ -68,6 +70,9 @@ ul {
   padding-bottom: 2em;
   color: #FB667A; 
   padding: 20px;
+  padding-left: 250px;
+  letter-spacing: 0.2em;
+
 }
 
 .container th h1 {
