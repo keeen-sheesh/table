@@ -197,11 +197,11 @@ input[type="submit"] {
 }
 footer{
 	width: 100%;
-	background-color: #1F2739;
+	background-color: #323C50;
 	text-align: center;
 	letter-spacing: 0.1em;
 	font-size: 13px;
-	color: black;
+	color: #1F2739;
 	font-weight: bolder;
 	padding: 10px;
 }
